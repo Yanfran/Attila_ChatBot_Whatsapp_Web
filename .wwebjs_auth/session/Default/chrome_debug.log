@@ -1,0 +1,8 @@
+[1031/093434.867:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1031/093434.867:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[1031/093437.432:INFO:CONSOLE(21)] "Another connection wants to delete database 'wawc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/serviceworker.js (21)
+[1031/093437.433:INFO:CONSOLE(7)] "Another connection wants to delete database 'wawc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/vendor1~app.4802d7adf05a55e9c1dc.js (7)
+[1031/093437.452:INFO:CONSOLE(21)] "Another connection wants to delete database 'wawc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/serviceworker.js (21)
+[1031/101947.106:ERROR:gpu_process_host.cc(974)] GPU process exited unexpectedly: exit_code=-1073741819
+[1031/101947.106:WARNING:gpu_process_host.cc(1279)] The GPU process has crashed 1 time(s)
+[1031/101947.257:WARNING:gpu_process_host.cc(1002)] Reinitialized the GPU process after a crash. The reported initialization time was 69 ms
